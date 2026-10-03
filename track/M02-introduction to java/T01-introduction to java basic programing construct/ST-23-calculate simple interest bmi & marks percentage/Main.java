@@ -28,6 +28,6 @@ System.out.println("BMI: "+bmi);
 System.out.println("Total Marks: "+totalmarks);
 System.out.println("Percentage: "+percentage);
 
-}
+   }
 
 }
