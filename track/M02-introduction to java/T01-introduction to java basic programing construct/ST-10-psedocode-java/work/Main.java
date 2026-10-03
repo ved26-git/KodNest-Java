@@ -13,7 +13,6 @@ int weeklyJavaHours = javaHoursPerDay numberOfDays;
 
 int weeklyAptitudeHours = aptitudeHours Per Day numberOfDays;
 
-
 int totalPreparationHours = weeklyJavaHours + weeklyAptitudeHours;
 
 
@@ -24,6 +23,5 @@ System.out.println("Total: "+totalPreparationHours);
 
 
 
-}
-
+     }
 }
