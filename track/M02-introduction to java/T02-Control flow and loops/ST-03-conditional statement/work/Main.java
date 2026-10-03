@@ -28,6 +28,7 @@ System.out.println("Larger score: " + firstscore);
 System.out.println("Larger score: + secondScore);
 }
 
-    }
+
+}
 }
 
